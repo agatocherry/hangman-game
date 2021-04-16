@@ -1,0 +1,18 @@
+  ===========  
+• agatocherry •
+  ===========  
+
+  -----  
+| Words |
+  -----  
+
+Number : 5
+List : list of word is here 
+
+  -----  
+| Score |
+  -----  
+
+Win : 3
+Lose : 0
+Retry : 3
